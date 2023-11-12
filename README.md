@@ -13,9 +13,9 @@ Companion App must always be on same Wi-Fi network as ESP-32 to work as intended
 
 ## Screenshots
 
-![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/ec89891e-1598-4d24-86c6-7fc00d3107b3)
-![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/1318de13-80a6-4543-922d-c0ecc9046de7)
-![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/c33eb370-ca02-46ec-a94c-9e9c6f586dd7)
-![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/b47c78b8-d395-435e-8faf-e81c3e29390c)
-![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/9329bbaa-1bb5-463a-9c4d-0d07a0f10158)
-![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/9962b72e-5938-4be6-a9cf-1bf4200207aa)
+![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/d3ca6edc-1c22-4467-a0b4-8e5fe63a655f)
+![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/54fb448e-c31a-4bc3-b778-6106004b7e21)
+![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/c825fb7b-52ae-44ae-942a-af3ee27e2e6d)
+![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/1936e869-0a4d-400a-903e-66fc78e42408)
+![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/3703b86c-48c4-4110-a9d5-2de335376ed2)
+![image](https://github.com/Tombstone2K/ESP-IR-Companion-App/assets/74809929/97df2b68-4557-4b3b-882d-601169951064)
