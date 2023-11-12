@@ -1,6 +1,6 @@
 # ESP-IR-Automation Companion App
 
-This app complements the ESP-32 based system (https://github.com/Tombstone2K/ESP-IR-Automation)
+This app complements the [_ESP-32 based system_](https://github.com/Tombstone2K/ESP-IR-Automation)
 
 This app has 4 primary functionalities ->
 
